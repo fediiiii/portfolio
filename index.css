@@ -1,0 +1,67 @@
+h1{
+    text-align: center;
+    text-transform: capitalize;
+    color: rgb(171, 210, 253);
+    border: 10px solid black;
+    margin: 15px;
+}
+/* On travaille sur la balise body, donc sur TOUTE la page */
+body{
+    background-color: rgb(21, 20, 19);  /* Le fond de la page sera noir */
+    color: white;  /* Le texte de la page sera blanc */
+}
+li{
+    display: inline;
+}
+li{
+    text-transform: capitalize;
+    border: 2px solid rgb(218, 198, 198) ;
+    border-radius: 10px;
+    color: black;
+    background-color: rgb(202, 196, 196);
+}
+a{
+    margin-right: 50px;
+}
+div{
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+p{
+    letter-spacing: 4px;
+    word-spacing: 4px;
+    font-size: 20px;
+}
+label{
+    letter-spacing: 5px;
+    word-break: 5px;
+    font-size: 20px;
+
+}
+th{*column-count: 4}
+div>img{
+    margin-left: 250px;
+
+}
+section>video{
+    margin-left: 500px;
+    margin-right: ;
+}
+section>img{
+    margin-top: 5%;
+    margin-right: 15%;
+    margin-left: 15%;
+    margin-bottom: 5%;
+}
+p{
+    margin-left: 20%;
+    margin-right: 15%;
+}
+label{
+    color: aquamarine;
+}
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
